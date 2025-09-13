@@ -11,7 +11,7 @@ unifiedAlt: ''
 _build:
   publishResources: false
 ---
-<u>[Instagram](https://www.instagram.com/ismi_kun)</u>
+<u>[galuhismipratama@gmail.com](mailto:galuhismipratama@gmail.com)</u>
 <u>[Vimeo](https://www.vimeo.com/galuhismi)</u>
 
 

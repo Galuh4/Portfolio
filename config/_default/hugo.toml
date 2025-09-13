@@ -1,9 +1,9 @@
 # timeout
 timeout = "1200s"
 # your website url
-baseURL = 'https://bridget-demo.sped0n.com'
+baseURL = 'https://portfolio-e22.pages.dev'
 # website title
-title = 'Bridget'
+title = 'Galuh Portfolio'
 # don't touch this
 disableKinds = ["section", "taxonomy", "term", "home"]
 # robots.txt
